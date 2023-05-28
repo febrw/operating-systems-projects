@@ -1,4 +1,4 @@
-# Operating-Systems-Assignments
+# Operating Systems Projects
 
 4 tasks, each implementing core functional components within InfOS, a teaching and research operating system designed by the University of Edinburgh.
 
